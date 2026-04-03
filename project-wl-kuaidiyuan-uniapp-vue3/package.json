@@ -1,6 +1,0 @@
-{
-  "dependencies": {
-    "esbuild": "^0.14.53",
-    "esbuild-windows-64": "^0.14.53"
-  }
-}
