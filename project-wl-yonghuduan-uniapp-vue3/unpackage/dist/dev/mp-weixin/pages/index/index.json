@@ -1,8 +1,0 @@
-{
-  "navigationStyle": "custom",
-  "navigationBarTitleText": "神领物流",
-  "enablePullDownRefresh": true,
-  "usingComponents": {
-    "order-list": "./components/orderList"
-  }
-}
